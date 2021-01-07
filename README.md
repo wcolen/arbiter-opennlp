@@ -1,1 +1,1 @@
-# arbiter-opennlp
+My first try to use DL4J Arbiter and OpenNLP.
